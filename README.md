@@ -29,7 +29,8 @@
 [104_到云数据库物理模型.pdm](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E5%88%B0%E4%BA%91%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B.pdm)
 > * 原型
 [104_到云原型.rp](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E5%88%B0%E4%BA%91%E5%8E%9F%E5%9E%8B.rp)
-> * gif
+> * GIF操作录屏
+> 
 ![104_移动端_03.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%A7%BB%E5%8A%A8%E7%AB%AF_03.gif)
 ![104_移动端_05.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%A7%BB%E5%8A%A8%E7%AB%AF_05.gif)
 ![104_移动端_06.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%A7%BB%E5%8A%A8%E7%AB%AF_06.gif)
