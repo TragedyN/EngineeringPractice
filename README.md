@@ -19,6 +19,8 @@
 [104_第4周周报.docx](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%AC%AC4%E5%91%A8%E5%91%A8%E6%8A%A5.docx)
 > * 第五周
 [104_第5周周报.docx](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%AC%AC5%E5%91%A8%E5%91%A8%E6%8A%A5.docx)
+> * 第五周
+[104_第6周周报.docx](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%AC%AC6%E5%91%A8%E5%91%A8%E6%8A%A5.docx)
 
 # 杂
 
@@ -30,6 +32,9 @@
 > * gif
 [104_移动端_03.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%A7%BB%E5%8A%A8%E7%AB%AF_03.gif)
 [104_移动端_05.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%A7%BB%E5%8A%A8%E7%AB%AF_05.gif)
+[104_移动端_06.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E7%A7%BB%E5%8A%A8%E7%AB%AF_06.gif)
+[104_前端_06.gif](https://github.com/TragedyN/EngineeringPractice/blob/master/%E6%96%87%E6%A1%A3/104_%E5%89%8D%E7%AB%AF_06.gif)
+
 
 # 部分代码
 
