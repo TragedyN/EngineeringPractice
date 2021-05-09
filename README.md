@@ -21,6 +21,8 @@
 [104_第5周周报.docx](https://github.com/TragedyN/EngineeringPractice/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8/104_%E7%AC%AC5%E5%91%A8%E5%91%A8%E6%8A%A5.docx)
 > * 第六周
 [104_第6周周报.docx](https://github.com/TragedyN/EngineeringPractice/blob/master/%E7%AC%AC%E5%85%AD%E5%91%A8/104_%E7%AC%AC6%E5%91%A8%E5%91%A8%E6%8A%A5.docx)
+> * 第七周
+[104_第7周周报.docx](https://github.com/TragedyN/EngineeringPractice/blob/master/%E7%AC%AC%E4%B8%83%E5%91%A8/104_%E7%AC%AC7%E5%91%A8%E5%91%A8%E6%8A%A5.docx)
 
 > * GIF操作录屏
 > 
